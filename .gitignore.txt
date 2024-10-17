@@ -1,0 +1,12 @@
+# Ignore dependency directories
+node_modules/
+
+# Ignore Cypress artifacts
+cypress/screenshots/
+cypress/videos/
+
+# Ignore environment files (if any)
+.env
+
+# Ignore log files
+*.log
